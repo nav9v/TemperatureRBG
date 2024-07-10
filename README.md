@@ -4,9 +4,9 @@
 
 The LED activates to glow:
 
-- 🔴 *Red* when the temperature is below 0°C
-- 🔵 *Blue* when the temperature is between 0°C and 100°C inclusive
-- 🟢 *Green* when the temperature exceeds 100°C
+- 🔴 *Red when the temperature is below 0°C
+- 🔵 *Blue when the temperature is between 0°C and 100°C inclusive
+- 🟢 *Green when the temperature exceeds 100°C
 
 ---
 
